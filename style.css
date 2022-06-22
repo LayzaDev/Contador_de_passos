@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+    background: rgba(0, 0, 0, 0.993);
+    font: normal 15pt Arial;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+      color:  rgba(134, 228, 247, 0.905);
+      text-align: center;
+}
+
+section{
+    background: rgba(134, 228, 247, 0.905);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    
+}
+#txtstart {
+    border-radius: 5px 5px 5px 5px;
+    background: rgb(234, 252, 255);
+    
+}
+
+#txtend {
+    border-radius: 5px 5px 5px 5px;
+    background: rgb(234, 252, 255);
+}
+
+#txtcount {
+    border-radius: 5px 5px 5px 5px;
+    background: rgb(234, 252, 255);
+}
+
+#button {
+    background-color: rgb(33, 131, 151);    
+    color: rgb(255, 255, 255); 
+    border-radius: 8px 8px 8px 8px;
+    cursor: pointer;
+    border-color: rgba(230, 166, 47, 0);
+    box-shadow: 2px 2px 8px rgb(0, 59, 54);
+}
+
+#button:hover{
+    background-color: rgba(70, 95, 92, 0.592);
+}
+
+footer{
+      color: rgb(162, 214, 229);
+      text-align: center;
+      margin-top: 15px;
+      font-family: 'Noto Serif', serif;
+}

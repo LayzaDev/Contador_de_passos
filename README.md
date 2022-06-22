@@ -42,7 +42,7 @@ Ao final da contagem deverá aparecer uma bandeira como indicativo de fim.
 
 Confira o resultado final do projeto "Contador" no link abaixo:
 
-[Projeto Contador](https://github.com/LayzaDev/Contador_de_passos.git)
+[Projeto Contador](http://127.0.0.1:5500/index.html)
 
 ### **Redes Sociais**
 
